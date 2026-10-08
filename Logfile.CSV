@@ -1,0 +1,372 @@
+﻿"Time of Day","Process Name","PID","Operation","Path","Result","Detail"
+"8:50:43.3880178 AM","parent.exe","1076","Process Start","","SUCCESS","Parent PID: 2364, Command line: ""C:\web\OSI\lab2\build\bin\Debug\parent.exe"", Current directory: C:\web\OSI\lab2\build\bin\Debug\, Environment: ;	=::=::\;	ALLUSERSPROFILE=C:\ProgramData;	APPDATA=C:\Users\egor-\AppData\Roaming;	CLion=C:\Program Files\JetBrains\CLion 2025.2.2\bin;	CommonProgramFiles=C:\Program Files\Common Files;	CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files;	CommonProgramW6432=C:\Program Files\Common Files;	COMPUTERNAME=DESKTOP-ESH39GT;	ComSpec=C:\WINDOWS\system32\cmd.exe;	DriverData=C:\Windows\System32\Drivers\DriverData;	ETHEREUM_SOCKET=\\.\pipe\geth.ipc;	FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer;	FPS_BROWSER_USER_PROFILE_STRING=Default;	HOMEDRIVE=C:;	HOMEPATH=\Users\egor-;	LOCALAPPDATA=C:\Users\egor-\AppData\Local;	LOGONSERVER=\\DESKTOP-ESH39GT;	NUMBER_OF_PROCESSORS=16;	OneDrive=C:\Users\egor-\OneDrive;	OS=Windows_NT;	Path=C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Geth;C:\Program Files\Git\cmd;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\Kubernetes\Minikube;C:\Program Files\nodejs\;C:\Program Files\dotnet\;C:\Users\egor-\.local\bin;C:\Users\egor-\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\egor-\AppData\Local\Programs\Python\Python312\;C:\Users\egor-\AppData\Local\Programs\Python\Launcher\;C:\Users\egor-\AppData\Local\Microsoft\WindowsApps;C:\Users\egor-\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\PyCharm Community Edition 2024.3.1\bin;C:\Program Files\JetBrains\CLion 2025.2.2\bin;C:\Users\egor-\AppData\Roaming\npm;C:\Users\egor-\AppData\Local\Programs\Antigravity\bin;C:\Users\egor-\AppData\Local\Programs\Antigravity IDE\bin;C:\msys64\ucrt64\bin;C:\msys64\ucrt64\bin;C:\Program Files\CMake\bin;C:\Program Files\WSL\;C:\Users\egor-\.local\bin;C:\Users\egor-\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\egor-\AppData\Local\Programs\Python\Python312\;C:\Users\egor-\AppData\Local\Programs\Python\Launcher\;C:\Users\egor-\AppData\Local\Microsoft\WindowsApps;C:\Users\egor-\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\PyCharm Community Edition 2024.3.1\bin;;C:\Program Files\JetBrains\CLion 2025.2.2\bin;C:\Users\egor-\AppData\Roaming\npm;C:\Users\egor-\AppData\Local\Programs\Antigravity\bin;C:\Users\egor-\AppData\Local\Programs\Antigravity IDE\bin;	PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.CPL;	PROCESSOR_ARCHITECTURE=AMD64;	PROCESSOR_IDENTIFIER=AMD64 Family 23 Model 104 Stepping 1, AuthenticAMD;	PROCESSOR_LEVEL=23;	PROCESSOR_REVISION=6801;	ProgramData=C:\ProgramData;	ProgramFiles=C:\Program Files;	ProgramFiles(x86)=C:\Program Files (x86);	ProgramW6432=C:\Program Files;	PSModulePath=C:\Users\egor-\Documents\WindowsPowerShell\Modules;C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules;	PUBLIC=C:\Users\Public;	PyCharm Community Edition=C:\Program Files\JetBrains\PyCharm Community Edition 2024.3.1\bin;;	SESSIONNAME=Console;	SystemDrive=C:;	SystemRoot=C:\WINDOWS;	TEMP=C:\Users\egor-\AppData\Local\Temp;	TMP=C:\Users\egor-\AppData\Local\Temp;	USERDOMAIN=DESKTOP-ESH39GT;	USERDOMAIN_ROAMINGPROFILE=DESKTOP-ESH39GT;	USERNAME=egor-;	USERPROFILE=C:\Users\egor-;	VBOX_HWVIRTEX_IGNORE_SVM_IN_USE=1;	windir=C:\WINDOWS"
+"8:50:43.3880340 AM","parent.exe","1076","Thread Create","","SUCCESS","Thread ID: 11020"
+"8:50:43.3896838 AM","parent.exe","1076","Load Image","C:\web\OSI\lab2\build\bin\Debug\parent.exe","SUCCESS","Image Base: 0x7ff796650000, Image Size: 0x15000"
+"8:50:43.3897994 AM","parent.exe","1076","Load Image","C:\Windows\System32\ntdll.dll","SUCCESS","Image Base: 0x7ff93d6d0000, Image Size: 0x1f8000"
+"8:50:43.3900278 AM","parent.exe","1076","RegOpenKey","HKLM\System\CurrentControlSet\Control\Session Manager","REPARSE","Desired Access: Query Value"
+"8:50:43.3900653 AM","parent.exe","1076","RegOpenKey","HKLM\System\CurrentControlSet\Control\Session Manager","SUCCESS","Desired Access: Query Value"
+"8:50:43.3900992 AM","parent.exe","1076","RegQueryValue","HKLM\System\CurrentControlSet\Control\Session Manager\RaiseExceptionOnPossibleDeadlock","NAME NOT FOUND","Length: 80"
+"8:50:43.3901274 AM","parent.exe","1076","RegCloseKey","HKLM\System\CurrentControlSet\Control\Session Manager","SUCCESS",""
+"8:50:43.3901514 AM","parent.exe","1076","RegOpenKey","HKLM\SYSTEM\CurrentControlSet\Control\Session Manager\Segment Heap","REPARSE","Desired Access: Query Value"
+"8:50:43.3901751 AM","parent.exe","1076","RegOpenKey","HKLM\System\CurrentControlSet\Control\Session Manager\Segment Heap","NAME NOT FOUND","Desired Access: Query Value"
+"8:50:43.3902354 AM","parent.exe","1076","RegOpenKey","HKLM\SYSTEM\CurrentControlSet\Control\Session Manager","REPARSE","Desired Access: Query Value, Enumerate Sub Keys"
+"8:50:43.3902616 AM","parent.exe","1076","RegOpenKey","HKLM\System\CurrentControlSet\Control\Session Manager","SUCCESS","Desired Access: Query Value, Enumerate Sub Keys"
+"8:50:43.3902852 AM","parent.exe","1076","RegQueryValue","HKLM\System\CurrentControlSet\Control\Session Manager\ResourcePolicies","NAME NOT FOUND","Length: 24"
+"8:50:43.3903090 AM","parent.exe","1076","RegCloseKey","HKLM\System\CurrentControlSet\Control\Session Manager","SUCCESS",""
+"8:50:43.3907933 AM","parent.exe","1076","CreateFile","C:\web\OSI\lab2\build\bin\Debug","SUCCESS","Desired Access: Execute/Traverse, Synchronize, Disposition: Open, Options: Directory, Synchronous IO Non-Alert, Attributes: n/a, ShareMode: Read, Write, AllocationSize: n/a, OpenResult: Opened"
+"8:50:43.3909741 AM","parent.exe","1076","Load Image","C:\Windows\System32\kernel32.dll","SUCCESS","Image Base: 0x7ff93ca20000, Image Size: 0xc2000"
+"8:50:43.3912058 AM","parent.exe","1076","Load Image","C:\Windows\System32\KernelBase.dll","SUCCESS","Image Base: 0x7ff93b1c0000, Image Size: 0x2f6000"
+"8:50:43.3928992 AM","parent.exe","1076","RegOpenKey","HKLM\System\CurrentControlSet\Control\StateSeparation\RedirectionMap\Keys","REPARSE","Desired Access: Read"
+"8:50:43.3929401 AM","parent.exe","1076","RegOpenKey","HKLM\System\CurrentControlSet\Control\StateSeparation\RedirectionMap\Keys","NAME NOT FOUND","Desired Access: Read"
+"8:50:43.3933047 AM","parent.exe","1076","RegOpenKey","HKLM\System\CurrentControlSet\Control\SafeBoot\Option","REPARSE","Desired Access: Query Value, Set Value"
+"8:50:43.3933318 AM","parent.exe","1076","RegOpenKey","HKLM\System\CurrentControlSet\Control\SafeBoot\Option","NAME NOT FOUND","Desired Access: Query Value, Set Value"
+"8:50:43.3933584 AM","parent.exe","1076","RegOpenKey","HKLM\System\CurrentControlSet\Control\Srp\GP\DLL","REPARSE","Desired Access: Read"
+"8:50:43.3933808 AM","parent.exe","1076","RegOpenKey","HKLM\System\CurrentControlSet\Control\Srp\GP\DLL","NAME NOT FOUND","Desired Access: Read"
+"8:50:43.3934062 AM","parent.exe","1076","RegOpenKey","HKLM\Software\Policies\Microsoft\Windows\Safer\CodeIdentifiers","NAME NOT FOUND","Desired Access: Query Value"
+"8:50:43.3934425 AM","parent.exe","1076","RegOpenKey","HKCU\Software\Policies\Microsoft\Windows\Safer\CodeIdentifiers","NAME NOT FOUND","Desired Access: Query Value"
+"8:50:43.3934841 AM","parent.exe","1076","RegOpenKey","HKLM\System\CurrentControlSet\Control\FileSystem\","REPARSE","Desired Access: Read"
+"8:50:43.3935068 AM","parent.exe","1076","RegOpenKey","HKLM\System\CurrentControlSet\Control\FileSystem","SUCCESS","Desired Access: Read"
+"8:50:43.3935334 AM","parent.exe","1076","RegQueryValue","HKLM\System\CurrentControlSet\Control\FileSystem\LongPathsEnabled","SUCCESS","Type: REG_DWORD, Length: 4, Data: 0"
+"8:50:43.3935625 AM","parent.exe","1076","RegCloseKey","HKLM\System\CurrentControlSet\Control\FileSystem","SUCCESS",""
+"8:50:43.3937286 AM","parent.exe","1076","Thread Create","","SUCCESS","Thread ID: 2380"
+"8:50:43.3937816 AM","parent.exe","1076","RegOpenKey","HKLM\System\CurrentControlSet\Control\Session Manager","REPARSE","Desired Access: Query Value"
+"8:50:43.3938099 AM","parent.exe","1076","RegOpenKey","HKLM\System\CurrentControlSet\Control\Session Manager","SUCCESS","Desired Access: Query Value"
+"8:50:43.3938365 AM","parent.exe","1076","RegQueryValue","HKLM\System\CurrentControlSet\Control\Session Manager\SafeDllSearchMode","NAME NOT FOUND","Length: 16"
+"8:50:43.3938628 AM","parent.exe","1076","Thread Create","","SUCCESS","Thread ID: 2616"
+"8:50:43.3942821 AM","parent.exe","1076","CreateFile","C:\web\OSI\lab2\build\bin\Debug\ucrtbased.dll","NAME NOT FOUND","Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a"
+"8:50:43.3943126 AM","parent.exe","1076","CreateFile","C:\web\OSI\lab2\build\bin\Debug\VCRUNTIME140D.dll","NAME NOT FOUND","Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a"
+"8:50:43.3949421 AM","parent.exe","1076","CreateFile","C:\Windows\System32\ucrtbased.dll","SUCCESS","Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+"8:50:43.3949897 AM","parent.exe","1076","CreateFile","C:\Windows\System32\vcruntime140d.dll","SUCCESS","Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+"8:50:43.3949941 AM","parent.exe","1076","QueryBasicInformationFile","C:\Windows\System32\ucrtbased.dll","SUCCESS","CreationTime: 7/9/2025 12:33:38 PM, LastAccessTime: 10/8/2026 8:50:12 AM, LastWriteTime: 7/9/2025 12:33:38 PM, ChangeTime: 9/22/2025 9:29:33 PM, FileAttributes: A"
+"8:50:43.3950162 AM","parent.exe","1076","CloseFile","C:\Windows\System32\ucrtbased.dll","SUCCESS",""
+"8:50:43.3950377 AM","parent.exe","1076","QueryBasicInformationFile","C:\Windows\System32\vcruntime140d.dll","SUCCESS","CreationTime: 6/11/2025 5:21:58 AM, LastAccessTime: 10/8/2026 8:50:12 AM, LastWriteTime: 6/11/2025 5:21:58 AM, ChangeTime: 9/22/2025 9:25:37 PM, FileAttributes: A"
+"8:50:43.3950730 AM","parent.exe","1076","CloseFile","C:\Windows\System32\vcruntime140d.dll","SUCCESS",""
+"8:50:43.3953725 AM","parent.exe","1076","CreateFile","C:\Windows\System32\ucrtbased.dll","SUCCESS","Desired Access: Read Data/List Directory, Execute/Traverse, Synchronize, Disposition: Open, Options: Synchronous IO Non-Alert, Non-Directory File, Attributes: n/a, ShareMode: Read, Delete, AllocationSize: n/a, OpenResult: Opened"
+"8:50:43.3954578 AM","parent.exe","1076","CreateFileMapping","C:\Windows\System32\ucrtbased.dll","FILE LOCKED WITH ONLY READERS","SyncType: SyncTypeCreateSection, PageProtection: PAGE_EXECUTE"
+"8:50:43.3955108 AM","parent.exe","1076","CreateFile","C:\Windows\System32\vcruntime140d.dll","SUCCESS","Desired Access: Read Data/List Directory, Execute/Traverse, Synchronize, Disposition: Open, Options: Synchronous IO Non-Alert, Non-Directory File, Attributes: n/a, ShareMode: Read, Delete, AllocationSize: n/a, OpenResult: Opened"
+"8:50:43.3955687 AM","parent.exe","1076","CreateFileMapping","C:\Windows\System32\vcruntime140d.dll","FILE LOCKED WITH ONLY READERS","SyncType: SyncTypeCreateSection, PageProtection: PAGE_EXECUTE"
+"8:50:43.3957253 AM","parent.exe","1076","CreateFileMapping","C:\Windows\System32\vcruntime140d.dll","SUCCESS","SyncType: SyncTypeOther"
+"8:50:43.3958353 AM","parent.exe","1076","Load Image","C:\Windows\System32\vcruntime140d.dll","SUCCESS","Image Base: 0x7ff90c820000, Image Size: 0x30000"
+"8:50:43.3959753 AM","parent.exe","1076","CloseFile","C:\Windows\System32\vcruntime140d.dll","SUCCESS",""
+"8:50:43.3960267 AM","parent.exe","1076","CreateFileMapping","C:\Windows\System32\ucrtbased.dll","SUCCESS","SyncType: SyncTypeOther"
+"8:50:43.3961431 AM","parent.exe","1076","Load Image","C:\Windows\System32\ucrtbased.dll","SUCCESS","Image Base: 0x7ff8db810000, Image Size: 0x204000"
+"8:50:43.3962618 AM","parent.exe","1076","Thread Create","","SUCCESS","Thread ID: 12408"
+"8:50:43.3963052 AM","parent.exe","1076","CreateFile","C:\web\OSI\lab2\build\bin\Debug\ucrtbased.dll","NAME NOT FOUND","Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a"
+"8:50:43.3964042 AM","parent.exe","1076","RegOpenKey","HKLM\SYSTEM\CurrentControlSet\Control\Session Manager","REPARSE","Desired Access: Query Value, Enumerate Sub Keys"
+"8:50:43.3964568 AM","parent.exe","1076","RegOpenKey","HKLM\System\CurrentControlSet\Control\Session Manager","SUCCESS","Desired Access: Query Value, Enumerate Sub Keys"
+"8:50:43.3964897 AM","parent.exe","1076","RegQueryValue","HKLM\System\CurrentControlSet\Control\Session Manager\ResourcePolicies","NAME NOT FOUND","Length: 24"
+"8:50:43.3965222 AM","parent.exe","1076","RegCloseKey","HKLM\System\CurrentControlSet\Control\Session Manager","SUCCESS",""
+"8:50:43.3966175 AM","parent.exe","1076","CloseFile","C:\Windows\System32\ucrtbased.dll","SUCCESS",""
+"8:50:43.3971678 AM","parent.exe","1076","CreateFile","C:\Windows\System32\ucrtbased.dll","SUCCESS","Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+"8:50:43.3972105 AM","parent.exe","1076","QueryBasicInformationFile","C:\Windows\System32\ucrtbased.dll","SUCCESS","CreationTime: 7/9/2025 12:33:38 PM, LastAccessTime: 10/8/2026 8:50:43 AM, LastWriteTime: 7/9/2025 12:33:38 PM, ChangeTime: 9/22/2025 9:29:33 PM, FileAttributes: A"
+"8:50:43.3972522 AM","parent.exe","1076","CloseFile","C:\Windows\System32\ucrtbased.dll","SUCCESS",""
+"8:50:43.3977940 AM","parent.exe","1076","RegOpenKey","HKLM\System\CurrentControlSet\Control\Nls\Sorting\Versions","REPARSE","Desired Access: Read"
+"8:50:43.3978345 AM","parent.exe","1076","RegOpenKey","HKLM\System\CurrentControlSet\Control\Nls\Sorting\Versions","SUCCESS","Desired Access: Read"
+"8:50:43.3978761 AM","parent.exe","1076","RegQueryValue","HKLM\System\CurrentControlSet\Control\Nls\Sorting\Versions\(Default)","SUCCESS","Type: REG_SZ, Length: 18, Data: 00060305"
+"8:50:43.3979038 AM","parent.exe","1076","RegQueryValue","HKLM\System\CurrentControlSet\Control\Nls\Sorting\Versions\000603xx","SUCCESS","Type: REG_SZ, Length: 26, Data: kernel32.dll"
+"8:50:43.3983309 AM","parent.exe","1076","QueryNameInformationFile","C:\web\OSI\lab2\build\bin\Debug\parent.exe","SUCCESS","Name: \web\OSI\lab2\build\bin\Debug\parent.exe"
+"8:50:43.3989077 AM","parent.exe","1076","CreateFile","C:\web\OSI\lab2\build\bin\Debug\child1.exe","SUCCESS","Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+"8:50:43.3989747 AM","parent.exe","1076","QueryBasicInformationFile","C:\web\OSI\lab2\build\bin\Debug\child1.exe","SUCCESS","CreationTime: 10/8/2026 8:47:58 AM, LastAccessTime: 10/8/2026 8:50:16 AM, LastWriteTime: 10/8/2026 8:47:58 AM, ChangeTime: 10/8/2026 8:47:58 AM, FileAttributes: A"
+"8:50:43.3989921 AM","parent.exe","1076","CloseFile","C:\web\OSI\lab2\build\bin\Debug\child1.exe","SUCCESS",""
+"8:50:43.3992324 AM","parent.exe","1076","CreateFile","C:\web\OSI\lab2\build\bin\Debug\child1.exe","SUCCESS","Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+"8:50:43.3992581 AM","parent.exe","1076","QueryBasicInformationFile","C:\web\OSI\lab2\build\bin\Debug\child1.exe","SUCCESS","CreationTime: 10/8/2026 8:47:58 AM, LastAccessTime: 10/8/2026 8:50:16 AM, LastWriteTime: 10/8/2026 8:47:58 AM, ChangeTime: 10/8/2026 8:47:58 AM, FileAttributes: A"
+"8:50:43.3992731 AM","parent.exe","1076","CloseFile","C:\web\OSI\lab2\build\bin\Debug\child1.exe","SUCCESS",""
+"8:50:43.3995045 AM","parent.exe","1076","Load Image","C:\Windows\System32\sechost.dll","SUCCESS","Image Base: 0x7ff93b6f0000, Image Size: 0x9f000"
+"8:50:43.3997341 AM","parent.exe","1076","Load Image","C:\Windows\System32\rpcrt4.dll","SUCCESS","Image Base: 0x7ff93d020000, Image Size: 0x120000"
+"8:50:43.3999688 AM","parent.exe","1076","Load Image","C:\Windows\System32\bcrypt.dll","SUCCESS","Image Base: 0x7ff93ade0000, Image Size: 0x27000"
+"8:50:43.4005256 AM","parent.exe","1076","RegOpenKey","HKLM\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options","SUCCESS","Desired Access: Query Value, Enumerate Sub Keys"
+"8:50:43.4005610 AM","parent.exe","1076","RegOpenKey","HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\child1.exe","NAME NOT FOUND","Desired Access: Query Value, Enumerate Sub Keys"
+"8:50:43.4005823 AM","parent.exe","1076","RegOpenKey","HKLM\Software\Microsoft\Wow64\x86\xtajit","NAME NOT FOUND","Desired Access: Query Value"
+"8:50:43.4007316 AM","parent.exe","1076","CreateFile","C:\web\OSI\lab2\build\bin\Debug\child1.exe","SUCCESS","Desired Access: Read Data/List Directory, Execute/Traverse, Read Attributes, Synchronize, Disposition: Open, Options: Synchronous IO Non-Alert, Non-Directory File, Attributes: N, ShareMode: Read, Delete, AllocationSize: n/a, OpenResult: Opened"
+"8:50:43.4007867 AM","parent.exe","1076","CreateFileMapping","C:\web\OSI\lab2\build\bin\Debug\child1.exe","FILE LOCKED WITH ONLY READERS","SyncType: SyncTypeCreateSection, PageProtection: PAGE_EXECUTE"
+"8:50:43.4008232 AM","parent.exe","1076","CreateFileMapping","C:\web\OSI\lab2\build\bin\Debug\child1.exe","SUCCESS","SyncType: SyncTypeOther"
+"8:50:43.4008795 AM","parent.exe","1076","RegOpenKey","HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\child1.exe","NAME NOT FOUND","Desired Access: Query Value, Enumerate Sub Keys"
+"8:50:43.4009213 AM","parent.exe","1076","QuerySecurityFile","C:\web\OSI\lab2\build\bin\Debug\child1.exe","SUCCESS","Information: Label"
+"8:50:43.4009916 AM","parent.exe","1076","QueryNameInformationFile","C:\web\OSI\lab2\build\bin\Debug\child1.exe","SUCCESS","Name: \web\OSI\lab2\build\bin\Debug\child1.exe"
+"8:50:43.4016300 AM","parent.exe","1076","QueryEAFile","C:\web\OSI\lab2\build\bin\Debug\child1.exe","SUCCESS",""
+"8:50:43.4081653 AM","parent.exe","1076","RegOpenKey","HKLM\System\CurrentControlSet\Services\bam\State\UserSettings\S-1-5-21-3161820280-1637484534-3215063883-1001","SUCCESS","Desired Access: All Access"
+"8:50:43.4081966 AM","parent.exe","1076","RegQueryValue","HKLM\System\CurrentControlSet\Services\bam\State\UserSettings\S-1-5-21-3161820280-1637484534-3215063883-1001\\Device\HarddiskVolume3\web\OSI\lab2\build\bin\Debug\child1.exe","NAME NOT FOUND","Length: 40"
+"8:50:43.4082314 AM","parent.exe","1076","RegCloseKey","HKLM\System\CurrentControlSet\Services\bam\State\UserSettings\S-1-5-21-3161820280-1637484534-3215063883-1001","SUCCESS",""
+"8:50:43.4082540 AM","parent.exe","1076","RegOpenKey","HKLM\SYSTEM\CurrentControlSet\Control\Session Manager\BAM","REPARSE","Desired Access: Query Value"
+"8:50:43.4082788 AM","parent.exe","1076","RegOpenKey","HKLM\System\CurrentControlSet\Control\Session Manager\BAM","NAME NOT FOUND","Desired Access: Query Value"
+"8:50:43.4083374 AM","parent.exe","1076","QueryNameInformationFile","C:\web\OSI\lab2\build\bin\Debug\child1.exe","BUFFER OVERFLOW","Name: \web\O"
+"8:50:43.4083667 AM","parent.exe","1076","QueryNameInformationFile","C:\web\OSI\lab2\build\bin\Debug\child1.exe","SUCCESS","Name: \web\OSI\lab2\build\bin\Debug\child1.exe"
+"8:50:43.4084390 AM","parent.exe","1076","Process Create","C:\web\OSI\lab2\build\bin\Debug\child1.exe","SUCCESS","PID: 7788, Command line: .\child1.exe"
+"8:50:43.4084474 AM","child1.exe","7788","Process Start","","SUCCESS","Parent PID: 1076, Command line: .\child1.exe, Current directory: C:\web\OSI\lab2\build\bin\Debug\, Environment: ;	=::=::\;	ALLUSERSPROFILE=C:\ProgramData;	APPDATA=C:\Users\egor-\AppData\Roaming;	CLion=C:\Program Files\JetBrains\CLion 2025.2.2\bin;	CommonProgramFiles=C:\Program Files\Common Files;	CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files;	CommonProgramW6432=C:\Program Files\Common Files;	COMPUTERNAME=DESKTOP-ESH39GT;	ComSpec=C:\WINDOWS\system32\cmd.exe;	DriverData=C:\Windows\System32\Drivers\DriverData;	ETHEREUM_SOCKET=\\.\pipe\geth.ipc;	FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer;	FPS_BROWSER_USER_PROFILE_STRING=Default;	HOMEDRIVE=C:;	HOMEPATH=\Users\egor-;	LOCALAPPDATA=C:\Users\egor-\AppData\Local;	LOGONSERVER=\\DESKTOP-ESH39GT;	NUMBER_OF_PROCESSORS=16;	OneDrive=C:\Users\egor-\OneDrive;	OS=Windows_NT;	Path=C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Geth;C:\Program Files\Git\cmd;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\Kubernetes\Minikube;C:\Program Files\nodejs\;C:\Program Files\dotnet\;C:\Users\egor-\.local\bin;C:\Users\egor-\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\egor-\AppData\Local\Programs\Python\Python312\;C:\Users\egor-\AppData\Local\Programs\Python\Launcher\;C:\Users\egor-\AppData\Local\Microsoft\WindowsApps;C:\Users\egor-\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\PyCharm Community Edition 2024.3.1\bin;C:\Program Files\JetBrains\CLion 2025.2.2\bin;C:\Users\egor-\AppData\Roaming\npm;C:\Users\egor-\AppData\Local\Programs\Antigravity\bin;C:\Users\egor-\AppData\Local\Programs\Antigravity IDE\bin;C:\msys64\ucrt64\bin;C:\msys64\ucrt64\bin;C:\Program Files\CMake\bin;C:\Program Files\WSL\;C:\Users\egor-\.local\bin;C:\Users\egor-\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\egor-\AppData\Local\Programs\Python\Python312\;C:\Users\egor-\AppData\Local\Programs\Python\Launcher\;C:\Users\egor-\AppData\Local\Microsoft\WindowsApps;C:\Users\egor-\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\PyCharm Community Edition 2024.3.1\bin;;C:\Program Files\JetBrains\CLion 2025.2.2\bin;C:\Users\egor-\AppData\Roaming\npm;C:\Users\egor-\AppData\Local\Programs\Antigravity\bin;C:\Users\egor-\AppData\Local\Programs\Antigravity IDE\bin;	PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.CPL;	PROCESSOR_ARCHITECTURE=AMD64;	PROCESSOR_IDENTIFIER=AMD64 Family 23 Model 104 Stepping 1, AuthenticAMD;	PROCESSOR_LEVEL=23;	PROCESSOR_REVISION=6801;	ProgramData=C:\ProgramData;	ProgramFiles=C:\Program Files;	ProgramFiles(x86)=C:\Program Files (x86);	ProgramW6432=C:\Program Files;	PSModulePath=C:\Users\egor-\Documents\WindowsPowerShell\Modules;C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules;	PUBLIC=C:\Users\Public;	PyCharm Community Edition=C:\Program Files\JetBrains\PyCharm Community Edition 2024.3.1\bin;;	SESSIONNAME=Console;	SystemDrive=C:;	SystemRoot=C:\WINDOWS;	TEMP=C:\Users\egor-\AppData\Local\Temp;	TMP=C:\Users\egor-\AppData\Local\Temp;	USERDOMAIN=DESKTOP-ESH39GT;	USERDOMAIN_ROAMINGPROFILE=DESKTOP-ESH39GT;	USERNAME=egor-;	USERPROFILE=C:\Users\egor-;	VBOX_HWVIRTEX_IGNORE_SVM_IN_USE=1;	windir=C:\WINDOWS"
+"8:50:43.4084583 AM","child1.exe","7788","Thread Create","","SUCCESS","Thread ID: 8816"
+"8:50:43.4085386 AM","parent.exe","1076","RegOpenKey","HKLM\System\CurrentControlSet\Control\Session Manager\AppCertDlls","REPARSE","Desired Access: Query Value"
+"8:50:43.4085642 AM","parent.exe","1076","RegOpenKey","HKLM\System\CurrentControlSet\Control\Session Manager\AppCertDlls","NAME NOT FOUND","Desired Access: Query Value"
+"8:50:43.4086039 AM","parent.exe","1076","RegOpenKey","HKLM\System\CurrentControlSet\Control\SafeBoot\Option","REPARSE","Desired Access: Query Value, Set Value"
+"8:50:43.4086247 AM","parent.exe","1076","RegOpenKey","HKLM\System\CurrentControlSet\Control\SafeBoot\Option","NAME NOT FOUND","Desired Access: Query Value, Set Value"
+"8:50:43.4086521 AM","parent.exe","1076","RegOpenKey","HKLM\Software\Policies\Microsoft\Windows\Safer\CodeIdentifiers","NAME NOT FOUND","Desired Access: Query Value"
+"8:50:43.4086890 AM","parent.exe","1076","RegOpenKey","HKCU\Software\Policies\Microsoft\Windows\Safer\CodeIdentifiers","NAME NOT FOUND","Desired Access: Query Value"
+"8:50:43.4087957 AM","parent.exe","1076","RegOpenKey","HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders","SUCCESS","Desired Access: Query Value"
+"8:50:43.4088270 AM","parent.exe","1076","RegQueryValue","HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders\Cache","SUCCESS","Type: REG_SZ, Length: 114, Data: C:\Users\egor-\AppData\Local\Microsoft\Windows\INetCache"
+"8:50:43.4088646 AM","parent.exe","1076","RegCloseKey","HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders","SUCCESS",""
+"8:50:43.4088925 AM","parent.exe","1076","RegOpenKey","HKCU\Software\Microsoft\Windows NT\CurrentVersion","SUCCESS","Desired Access: Enumerate Sub Keys"
+"8:50:43.4089184 AM","parent.exe","1076","RegOpenKey","HKCU\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Layers","SUCCESS","Desired Access: Query Value"
+"8:50:43.4089439 AM","parent.exe","1076","RegQueryValue","HKCU\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Layers\C:\web\OSI\lab2\build\bin\Debug\child1.exe","NAME NOT FOUND","Length: 16"
+"8:50:43.4089650 AM","parent.exe","1076","RegCloseKey","HKCU\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Layers","SUCCESS",""
+"8:50:43.4090269 AM","parent.exe","1076","QuerySecurityFile","C:\web\OSI\lab2\build\bin\Debug\child1.exe","SUCCESS","Information: Owner, Group, DACL, SACL, Label, Attribute, Process Trust Label, 0x100"
+"8:50:43.4092347 AM","parent.exe","1076","CreateFile","C:\Windows\apppatch\sysmain.sdb","SUCCESS","Desired Access: Generic Read, Disposition: Open, Options: Synchronous IO Non-Alert, Non-Directory File, Attributes: N, ShareMode: Read, AllocationSize: n/a, OpenResult: Opened"
+"8:50:43.4093249 AM","parent.exe","1076","QueryBasicInformationFile","C:\Windows\apppatch\sysmain.sdb","SUCCESS","CreationTime: 10/18/2025 10:01:51 AM, LastAccessTime: 10/8/2026 8:50:29 AM, LastWriteTime: 10/18/2025 10:01:51 AM, ChangeTime: 10/18/2025 1:02:31 PM, FileAttributes: A"
+"8:50:43.4093433 AM","parent.exe","1076","CloseFile","C:\Windows\apppatch\sysmain.sdb","SUCCESS",""
+"8:50:43.4094041 AM","parent.exe","1076","QueryBasicInformationFile","C:\web\OSI\lab2\build\bin\Debug\child1.exe","SUCCESS","CreationTime: 10/8/2026 8:47:58 AM, LastAccessTime: 10/8/2026 8:50:16 AM, LastWriteTime: 10/8/2026 8:47:58 AM, ChangeTime: 10/8/2026 8:47:58 AM, FileAttributes: A"
+"8:50:43.4094905 AM","parent.exe","1076","RegOpenKey","HKLM\Software\Microsoft\Windows\CurrentVersion\SideBySide","SUCCESS","Desired Access: Read"
+"8:50:43.4095172 AM","parent.exe","1076","RegQueryValue","HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\SideBySide\PreferExternalManifest","NAME NOT FOUND","Length: 20"
+"8:50:43.4095370 AM","parent.exe","1076","RegCloseKey","HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\SideBySide","SUCCESS",""
+"8:50:43.4095921 AM","parent.exe","1076","RegOpenKey","HKCU","SUCCESS","Desired Access: Maximum Allowed, Granted Access: All Access"
+"8:50:43.4096138 AM","parent.exe","1076","RegOpenKey","HKCU\Control Panel\Desktop\MuiCached\MachineLanguageConfiguration","NAME NOT FOUND","Desired Access: Read"
+"8:50:43.4096358 AM","parent.exe","1076","RegCloseKey","HKCU","SUCCESS",""
+"8:50:43.4096528 AM","parent.exe","1076","RegOpenKey","HKLM\Software\Policies\Microsoft\MUI\Settings","NAME NOT FOUND","Desired Access: Read"
+"8:50:43.4096764 AM","parent.exe","1076","RegOpenKey","HKCU","SUCCESS","Desired Access: Maximum Allowed, Granted Access: All Access"
+"8:50:43.4096956 AM","parent.exe","1076","RegOpenKey","HKCU\Software\Policies\Microsoft\Control Panel\Desktop","NAME NOT FOUND","Desired Access: Read"
+"8:50:43.4097209 AM","parent.exe","1076","RegOpenKey","HKCU\Control Panel\Desktop\LanguageConfiguration","SUCCESS","Desired Access: Read"
+"8:50:43.4097500 AM","parent.exe","1076","RegEnumValue","HKCU\Control Panel\Desktop\LanguageConfiguration","SUCCESS","Index: 0, Name: en-US, Type: REG_MULTI_SZ, Length: 14, Data: ru-RU"
+"8:50:43.4097743 AM","parent.exe","1076","RegEnumValue","HKCU\Control Panel\Desktop\LanguageConfiguration","NO MORE ENTRIES","Index: 1, Length: 512"
+"8:50:43.4097971 AM","parent.exe","1076","RegCloseKey","HKCU\Control Panel\Desktop\LanguageConfiguration","SUCCESS",""
+"8:50:43.4098171 AM","parent.exe","1076","RegCloseKey","HKCU","SUCCESS",""
+"8:50:43.4098396 AM","parent.exe","1076","RegOpenKey","HKLM\Software\Policies\Microsoft\MUI\Settings","NAME NOT FOUND","Desired Access: Read"
+"8:50:43.4098670 AM","parent.exe","1076","RegOpenKey","HKCU","SUCCESS","Desired Access: Maximum Allowed, Granted Access: All Access"
+"8:50:43.4098930 AM","parent.exe","1076","RegOpenKey","HKCU\Software\Policies\Microsoft\Control Panel\Desktop","NAME NOT FOUND","Desired Access: Read"
+"8:50:43.4099157 AM","parent.exe","1076","RegOpenKey","HKCU\Control Panel\Desktop","SUCCESS","Desired Access: Read"
+"8:50:43.4099363 AM","parent.exe","1076","RegQueryValue","HKCU\Control Panel\Desktop\PreferredUILanguages","BUFFER OVERFLOW","Length: 12"
+"8:50:43.4099598 AM","parent.exe","1076","RegQueryValue","HKCU\Control Panel\Desktop\PreferredUILanguages","SUCCESS","Type: REG_MULTI_SZ, Length: 14, Data: en-US"
+"8:50:43.4099887 AM","parent.exe","1076","RegCloseKey","HKCU\Control Panel\Desktop","SUCCESS",""
+"8:50:43.4100078 AM","parent.exe","1076","RegCloseKey","HKCU","SUCCESS",""
+"8:50:43.4100294 AM","parent.exe","1076","RegOpenKey","HKLM\Software\Policies\Microsoft\MUI\Settings","NAME NOT FOUND","Desired Access: Read"
+"8:50:43.4100565 AM","parent.exe","1076","RegOpenKey","HKCU","SUCCESS","Desired Access: Maximum Allowed, Granted Access: All Access"
+"8:50:43.4100813 AM","parent.exe","1076","RegOpenKey","HKCU\Control Panel\Desktop\MuiCached","SUCCESS","Desired Access: Read"
+"8:50:43.4101047 AM","parent.exe","1076","RegQueryValue","HKCU\Control Panel\Desktop\MuiCached\MachinePreferredUILanguages","BUFFER OVERFLOW","Length: 12"
+"8:50:43.4101240 AM","parent.exe","1076","RegQueryValue","HKCU\Control Panel\Desktop\MuiCached\MachinePreferredUILanguages","SUCCESS","Type: REG_MULTI_SZ, Length: 12, Data: ru-RU"
+"8:50:43.4101467 AM","parent.exe","1076","RegCloseKey","HKCU\Control Panel\Desktop\MuiCached","SUCCESS",""
+"8:50:43.4101674 AM","parent.exe","1076","RegCloseKey","HKCU","SUCCESS",""
+"8:50:43.4101900 AM","parent.exe","1076","RegOpenKey","HKLM\Software\Policies\Microsoft\MUI\Settings","NAME NOT FOUND","Desired Access: Read"
+"8:50:43.4102122 AM","parent.exe","1076","RegOpenKey","HKCU","SUCCESS","Desired Access: Maximum Allowed, Granted Access: All Access"
+"8:50:43.4102315 AM","parent.exe","1076","RegOpenKey","HKCU\Software\Policies\Microsoft\Control Panel\Desktop","NAME NOT FOUND","Desired Access: Read"
+"8:50:43.4102487 AM","parent.exe","1076","RegOpenKey","HKCU\Control Panel\Desktop","SUCCESS","Desired Access: Read"
+"8:50:43.4102646 AM","parent.exe","1076","RegQueryValue","HKCU\Control Panel\Desktop\PreferredUILanguages","BUFFER OVERFLOW","Length: 12"
+"8:50:43.4102881 AM","parent.exe","1076","RegQueryValue","HKCU\Control Panel\Desktop\PreferredUILanguages","SUCCESS","Type: REG_MULTI_SZ, Length: 14, Data: en-US"
+"8:50:43.4103094 AM","parent.exe","1076","RegCloseKey","HKCU\Control Panel\Desktop","SUCCESS",""
+"8:50:43.4103244 AM","parent.exe","1076","RegCloseKey","HKCU","SUCCESS",""
+"8:50:43.4103409 AM","parent.exe","1076","RegOpenKey","HKLM\Software\Policies\Microsoft\MUI\Settings","NAME NOT FOUND","Desired Access: Read"
+"8:50:43.4103606 AM","parent.exe","1076","RegOpenKey","HKCU","SUCCESS","Desired Access: Maximum Allowed, Granted Access: All Access"
+"8:50:43.4103865 AM","parent.exe","1076","RegOpenKey","HKCU\Software\Policies\Microsoft\Control Panel\Desktop","NAME NOT FOUND","Desired Access: Read"
+"8:50:43.4104077 AM","parent.exe","1076","RegOpenKey","HKCU\Control Panel\Desktop\LanguageConfiguration","SUCCESS","Desired Access: Read"
+"8:50:43.4104298 AM","parent.exe","1076","RegEnumValue","HKCU\Control Panel\Desktop\LanguageConfiguration","SUCCESS","Index: 0, Name: en-US, Type: REG_MULTI_SZ, Length: 14, Data: ru-RU"
+"8:50:43.4104498 AM","parent.exe","1076","RegEnumValue","HKCU\Control Panel\Desktop\LanguageConfiguration","NO MORE ENTRIES","Index: 1, Length: 512"
+"8:50:43.4104683 AM","parent.exe","1076","RegCloseKey","HKCU\Control Panel\Desktop\LanguageConfiguration","SUCCESS",""
+"8:50:43.4104836 AM","parent.exe","1076","RegCloseKey","HKCU","SUCCESS",""
+"8:50:43.4113936 AM","parent.exe","1076","CloseFile","C:\web\OSI\lab2\build\bin\Debug\child1.exe","SUCCESS",""
+"8:50:43.4114536 AM","child1.exe","7788","Load Image","C:\web\OSI\lab2\build\bin\Debug\child1.exe","SUCCESS","Image Base: 0x7ff6d7a00000, Image Size: 0x12000"
+"8:50:43.4115450 AM","child1.exe","7788","Load Image","C:\Windows\System32\ntdll.dll","SUCCESS","Image Base: 0x7ff93d6d0000, Image Size: 0x1f8000"
+"8:50:43.4117276 AM","parent.exe","1076","CreateFile","C:\web\OSI\lab2\build\bin\Debug\child2.exe","SUCCESS","Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+"8:50:43.4117292 AM","child1.exe","7788","RegOpenKey","HKLM\System\CurrentControlSet\Control\Session Manager","REPARSE","Desired Access: Query Value"
+"8:50:43.4117578 AM","child1.exe","7788","RegOpenKey","HKLM\System\CurrentControlSet\Control\Session Manager","SUCCESS","Desired Access: Query Value"
+"8:50:43.4117810 AM","child1.exe","7788","RegQueryValue","HKLM\System\CurrentControlSet\Control\Session Manager\RaiseExceptionOnPossibleDeadlock","NAME NOT FOUND","Length: 80"
+"8:50:43.4118034 AM","child1.exe","7788","RegCloseKey","HKLM\System\CurrentControlSet\Control\Session Manager","SUCCESS",""
+"8:50:43.4118050 AM","parent.exe","1076","QueryBasicInformationFile","C:\web\OSI\lab2\build\bin\Debug\child2.exe","SUCCESS","CreationTime: 10/8/2026 8:48:00 AM, LastAccessTime: 10/8/2026 8:50:16 AM, LastWriteTime: 10/8/2026 8:48:00 AM, ChangeTime: 10/8/2026 8:48:00 AM, FileAttributes: A"
+"8:50:43.4118221 AM","child1.exe","7788","RegOpenKey","HKLM\SYSTEM\CurrentControlSet\Control\Session Manager\Segment Heap","REPARSE","Desired Access: Query Value"
+"8:50:43.4118273 AM","parent.exe","1076","CloseFile","C:\web\OSI\lab2\build\bin\Debug\child2.exe","SUCCESS",""
+"8:50:43.4118398 AM","child1.exe","7788","RegOpenKey","HKLM\System\CurrentControlSet\Control\Session Manager\Segment Heap","NAME NOT FOUND","Desired Access: Query Value"
+"8:50:43.4118805 AM","child1.exe","7788","RegOpenKey","HKLM\SYSTEM\CurrentControlSet\Control\Session Manager","REPARSE","Desired Access: Query Value, Enumerate Sub Keys"
+"8:50:43.4118958 AM","child1.exe","7788","RegOpenKey","HKLM\System\CurrentControlSet\Control\Session Manager","SUCCESS","Desired Access: Query Value, Enumerate Sub Keys"
+"8:50:43.4119106 AM","child1.exe","7788","RegQueryValue","HKLM\System\CurrentControlSet\Control\Session Manager\ResourcePolicies","NAME NOT FOUND","Length: 24"
+"8:50:43.4119272 AM","child1.exe","7788","RegCloseKey","HKLM\System\CurrentControlSet\Control\Session Manager","SUCCESS",""
+"8:50:43.4121167 AM","parent.exe","1076","CreateFile","C:\web\OSI\lab2\build\bin\Debug\child2.exe","SUCCESS","Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+"8:50:43.4121548 AM","parent.exe","1076","QueryBasicInformationFile","C:\web\OSI\lab2\build\bin\Debug\child2.exe","SUCCESS","CreationTime: 10/8/2026 8:48:00 AM, LastAccessTime: 10/8/2026 8:50:16 AM, LastWriteTime: 10/8/2026 8:48:00 AM, ChangeTime: 10/8/2026 8:48:00 AM, FileAttributes: A"
+"8:50:43.4121751 AM","parent.exe","1076","CloseFile","C:\web\OSI\lab2\build\bin\Debug\child2.exe","SUCCESS",""
+"8:50:43.4122523 AM","parent.exe","1076","RegOpenKey","HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\child2.exe","NAME NOT FOUND","Desired Access: Query Value, Enumerate Sub Keys"
+"8:50:43.4122831 AM","parent.exe","1076","RegOpenKey","HKLM\Software\Microsoft\Wow64\x86\xtajit","NAME NOT FOUND","Desired Access: Query Value"
+"8:50:43.4122966 AM","child1.exe","7788","CreateFile","C:\web\OSI\lab2\build\bin\Debug","SUCCESS","Desired Access: Execute/Traverse, Synchronize, Disposition: Open, Options: Directory, Synchronous IO Non-Alert, Attributes: n/a, ShareMode: Read, Write, AllocationSize: n/a, OpenResult: Opened"
+"8:50:43.4124296 AM","parent.exe","1076","CreateFile","C:\web\OSI\lab2\build\bin\Debug\child2.exe","SUCCESS","Desired Access: Read Data/List Directory, Execute/Traverse, Read Attributes, Synchronize, Disposition: Open, Options: Synchronous IO Non-Alert, Non-Directory File, Attributes: N, ShareMode: Read, Delete, AllocationSize: n/a, OpenResult: Opened"
+"8:50:43.4124655 AM","child1.exe","7788","Load Image","C:\Windows\System32\kernel32.dll","SUCCESS","Image Base: 0x7ff93ca20000, Image Size: 0xc2000"
+"8:50:43.4124879 AM","parent.exe","1076","CreateFileMapping","C:\web\OSI\lab2\build\bin\Debug\child2.exe","FILE LOCKED WITH ONLY READERS","SyncType: SyncTypeCreateSection, PageProtection: PAGE_EXECUTE"
+"8:50:43.4125347 AM","parent.exe","1076","CreateFileMapping","C:\web\OSI\lab2\build\bin\Debug\child2.exe","SUCCESS","SyncType: SyncTypeOther"
+"8:50:43.4126130 AM","parent.exe","1076","RegOpenKey","HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\child2.exe","NAME NOT FOUND","Desired Access: Query Value, Enumerate Sub Keys"
+"8:50:43.4126709 AM","parent.exe","1076","QuerySecurityFile","C:\web\OSI\lab2\build\bin\Debug\child2.exe","SUCCESS","Information: Label"
+"8:50:43.4126803 AM","child1.exe","7788","Load Image","C:\Windows\System32\KernelBase.dll","SUCCESS","Image Base: 0x7ff93b1c0000, Image Size: 0x2f6000"
+"8:50:43.4127742 AM","parent.exe","1076","QueryNameInformationFile","C:\web\OSI\lab2\build\bin\Debug\child2.exe","SUCCESS","Name: \web\OSI\lab2\build\bin\Debug\child2.exe"
+"8:50:43.4132101 AM","parent.exe","1076","QueryEAFile","C:\web\OSI\lab2\build\bin\Debug\child2.exe","SUCCESS",""
+"8:50:43.4142706 AM","child1.exe","7788","RegOpenKey","HKLM\System\CurrentControlSet\Control\StateSeparation\RedirectionMap\Keys","REPARSE","Desired Access: Read"
+"8:50:43.4143098 AM","child1.exe","7788","RegOpenKey","HKLM\System\CurrentControlSet\Control\StateSeparation\RedirectionMap\Keys","NAME NOT FOUND","Desired Access: Read"
+"8:50:43.4146485 AM","child1.exe","7788","RegOpenKey","HKLM\System\CurrentControlSet\Control\SafeBoot\Option","REPARSE","Desired Access: Query Value, Set Value"
+"8:50:43.4146777 AM","child1.exe","7788","RegOpenKey","HKLM\System\CurrentControlSet\Control\SafeBoot\Option","NAME NOT FOUND","Desired Access: Query Value, Set Value"
+"8:50:43.4147026 AM","child1.exe","7788","RegOpenKey","HKLM\System\CurrentControlSet\Control\Srp\GP\DLL","REPARSE","Desired Access: Read"
+"8:50:43.4147215 AM","child1.exe","7788","RegOpenKey","HKLM\System\CurrentControlSet\Control\Srp\GP\DLL","NAME NOT FOUND","Desired Access: Read"
+"8:50:43.4147451 AM","child1.exe","7788","RegOpenKey","HKLM\Software\Policies\Microsoft\Windows\Safer\CodeIdentifiers","NAME NOT FOUND","Desired Access: Query Value"
+"8:50:43.4147803 AM","child1.exe","7788","RegOpenKey","HKCU\Software\Policies\Microsoft\Windows\Safer\CodeIdentifiers","NAME NOT FOUND","Desired Access: Query Value"
+"8:50:43.4148184 AM","child1.exe","7788","RegOpenKey","HKLM\System\CurrentControlSet\Control\FileSystem\","REPARSE","Desired Access: Read"
+"8:50:43.4148386 AM","child1.exe","7788","RegOpenKey","HKLM\System\CurrentControlSet\Control\FileSystem","SUCCESS","Desired Access: Read"
+"8:50:43.4148636 AM","child1.exe","7788","RegQueryValue","HKLM\System\CurrentControlSet\Control\FileSystem\LongPathsEnabled","SUCCESS","Type: REG_DWORD, Length: 4, Data: 0"
+"8:50:43.4148902 AM","child1.exe","7788","RegCloseKey","HKLM\System\CurrentControlSet\Control\FileSystem","SUCCESS",""
+"8:50:43.4150493 AM","child1.exe","7788","Thread Create","","SUCCESS","Thread ID: 11120"
+"8:50:43.4150998 AM","child1.exe","7788","RegOpenKey","HKLM\System\CurrentControlSet\Control\Session Manager","REPARSE","Desired Access: Query Value"
+"8:50:43.4151236 AM","child1.exe","7788","RegOpenKey","HKLM\System\CurrentControlSet\Control\Session Manager","SUCCESS","Desired Access: Query Value"
+"8:50:43.4151466 AM","child1.exe","7788","RegQueryValue","HKLM\System\CurrentControlSet\Control\Session Manager\SafeDllSearchMode","NAME NOT FOUND","Length: 16"
+"8:50:43.4151754 AM","child1.exe","7788","Thread Create","","SUCCESS","Thread ID: 14820"
+"8:50:43.4155485 AM","child1.exe","7788","CreateFile","C:\web\OSI\lab2\build\bin\Debug\VCRUNTIME140D.dll","NAME NOT FOUND","Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a"
+"8:50:43.4155625 AM","child1.exe","7788","CreateFile","C:\web\OSI\lab2\build\bin\Debug\ucrtbased.dll","NAME NOT FOUND","Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a"
+"8:50:43.4159581 AM","child1.exe","7788","CreateFile","C:\Windows\System32\ucrtbased.dll","SUCCESS","Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+"8:50:43.4159614 AM","child1.exe","7788","CreateFile","C:\Windows\System32\vcruntime140d.dll","SUCCESS","Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+"8:50:43.4160037 AM","child1.exe","7788","QueryBasicInformationFile","C:\Windows\System32\ucrtbased.dll","SUCCESS","CreationTime: 7/9/2025 12:33:38 PM, LastAccessTime: 10/8/2026 8:50:43 AM, LastWriteTime: 7/9/2025 12:33:38 PM, ChangeTime: 9/22/2025 9:29:33 PM, FileAttributes: A"
+"8:50:43.4160234 AM","child1.exe","7788","QueryBasicInformationFile","C:\Windows\System32\vcruntime140d.dll","SUCCESS","CreationTime: 6/11/2025 5:21:58 AM, LastAccessTime: 10/8/2026 8:50:43 AM, LastWriteTime: 6/11/2025 5:21:58 AM, ChangeTime: 9/22/2025 9:25:37 PM, FileAttributes: A"
+"8:50:43.4160238 AM","child1.exe","7788","CloseFile","C:\Windows\System32\ucrtbased.dll","SUCCESS",""
+"8:50:43.4160499 AM","child1.exe","7788","CloseFile","C:\Windows\System32\vcruntime140d.dll","SUCCESS",""
+"8:50:43.4161779 AM","child1.exe","7788","CreateFile","C:\Windows\System32\ucrtbased.dll","SUCCESS","Desired Access: Read Data/List Directory, Execute/Traverse, Synchronize, Disposition: Open, Options: Synchronous IO Non-Alert, Non-Directory File, Attributes: n/a, ShareMode: Read, Delete, AllocationSize: n/a, OpenResult: Opened"
+"8:50:43.4162259 AM","child1.exe","7788","CreateFileMapping","C:\Windows\System32\ucrtbased.dll","FILE LOCKED WITH ONLY READERS","SyncType: SyncTypeCreateSection, PageProtection: PAGE_EXECUTE"
+"8:50:43.4162621 AM","child1.exe","7788","CreateFileMapping","C:\Windows\System32\ucrtbased.dll","SUCCESS","SyncType: SyncTypeOther"
+"8:50:43.4163668 AM","child1.exe","7788","Load Image","C:\Windows\System32\ucrtbased.dll","SUCCESS","Image Base: 0x7ff8db810000, Image Size: 0x204000"
+"8:50:43.4164896 AM","child1.exe","7788","CloseFile","C:\Windows\System32\ucrtbased.dll","SUCCESS",""
+"8:50:43.4185229 AM","child1.exe","7788","CreateFile","C:\Windows\System32\vcruntime140d.dll","SUCCESS","Desired Access: Read Data/List Directory, Execute/Traverse, Synchronize, Disposition: Open, Options: Synchronous IO Non-Alert, Non-Directory File, Attributes: n/a, ShareMode: Read, Delete, AllocationSize: n/a, OpenResult: Opened"
+"8:50:43.4185980 AM","child1.exe","7788","CreateFileMapping","C:\Windows\System32\vcruntime140d.dll","FILE LOCKED WITH ONLY READERS","SyncType: SyncTypeCreateSection, PageProtection: PAGE_EXECUTE"
+"8:50:43.4186469 AM","child1.exe","7788","CreateFileMapping","C:\Windows\System32\vcruntime140d.dll","SUCCESS","SyncType: SyncTypeOther"
+"8:50:43.4187986 AM","child1.exe","7788","Load Image","C:\Windows\System32\vcruntime140d.dll","SUCCESS","Image Base: 0x7ff90c820000, Image Size: 0x30000"
+"8:50:43.4190061 AM","child1.exe","7788","CloseFile","C:\Windows\System32\vcruntime140d.dll","SUCCESS",""
+"8:50:43.4195013 AM","child1.exe","7788","RegOpenKey","HKLM\System\CurrentControlSet\Control\Nls\Sorting\Versions","REPARSE","Desired Access: Read"
+"8:50:43.4195469 AM","child1.exe","7788","RegOpenKey","HKLM\System\CurrentControlSet\Control\Nls\Sorting\Versions","SUCCESS","Desired Access: Read"
+"8:50:43.4195902 AM","child1.exe","7788","RegQueryValue","HKLM\System\CurrentControlSet\Control\Nls\Sorting\Versions\(Default)","SUCCESS","Type: REG_SZ, Length: 18, Data: 00060305"
+"8:50:43.4196222 AM","child1.exe","7788","RegQueryValue","HKLM\System\CurrentControlSet\Control\Nls\Sorting\Versions\000603xx","SUCCESS","Type: REG_SZ, Length: 26, Data: kernel32.dll"
+"8:50:43.4198165 AM","child1.exe","7788","RegOpenKey","HKLM\SYSTEM\CurrentControlSet\Control\Session Manager","REPARSE","Desired Access: Query Value, Enumerate Sub Keys"
+"8:50:43.4198474 AM","child1.exe","7788","RegOpenKey","HKLM\System\CurrentControlSet\Control\Session Manager","SUCCESS","Desired Access: Query Value, Enumerate Sub Keys"
+"8:50:43.4198772 AM","child1.exe","7788","RegQueryValue","HKLM\System\CurrentControlSet\Control\Session Manager\ResourcePolicies","NAME NOT FOUND","Length: 24"
+"8:50:43.4199102 AM","child1.exe","7788","RegCloseKey","HKLM\System\CurrentControlSet\Control\Session Manager","SUCCESS",""
+"8:50:43.4202435 AM","child1.exe","7788","QueryNameInformationFile","C:\web\OSI\lab2\build\bin\Debug\child1.exe","SUCCESS","Name: \web\OSI\lab2\build\bin\Debug\child1.exe"
+"8:50:43.4208031 AM","parent.exe","1076","RegOpenKey","HKLM\System\CurrentControlSet\Services\bam\State\UserSettings\S-1-5-21-3161820280-1637484534-3215063883-1001","SUCCESS","Desired Access: All Access"
+"8:50:43.4208321 AM","parent.exe","1076","RegQueryValue","HKLM\System\CurrentControlSet\Services\bam\State\UserSettings\S-1-5-21-3161820280-1637484534-3215063883-1001\\Device\HarddiskVolume3\web\OSI\lab2\build\bin\Debug\child2.exe","NAME NOT FOUND","Length: 40"
+"8:50:43.4208662 AM","parent.exe","1076","RegCloseKey","HKLM\System\CurrentControlSet\Services\bam\State\UserSettings\S-1-5-21-3161820280-1637484534-3215063883-1001","SUCCESS",""
+"8:50:43.4208881 AM","parent.exe","1076","RegOpenKey","HKLM\SYSTEM\CurrentControlSet\Control\Session Manager\BAM","REPARSE","Desired Access: Query Value"
+"8:50:43.4209113 AM","parent.exe","1076","RegOpenKey","HKLM\System\CurrentControlSet\Control\Session Manager\BAM","NAME NOT FOUND","Desired Access: Query Value"
+"8:50:43.4209635 AM","parent.exe","1076","QueryNameInformationFile","C:\web\OSI\lab2\build\bin\Debug\child2.exe","BUFFER OVERFLOW","Name: \web\O"
+"8:50:43.4209991 AM","parent.exe","1076","QueryNameInformationFile","C:\web\OSI\lab2\build\bin\Debug\child2.exe","SUCCESS","Name: \web\OSI\lab2\build\bin\Debug\child2.exe"
+"8:50:43.4210807 AM","parent.exe","1076","Process Create","C:\web\OSI\lab2\build\bin\Debug\child2.exe","SUCCESS","PID: 11024, Command line: .\child2.exe"
+"8:50:43.4210924 AM","child2.exe","11024","Process Start","","SUCCESS","Parent PID: 1076, Command line: .\child2.exe, Current directory: C:\web\OSI\lab2\build\bin\Debug\, Environment: ;	=::=::\;	ALLUSERSPROFILE=C:\ProgramData;	APPDATA=C:\Users\egor-\AppData\Roaming;	CLion=C:\Program Files\JetBrains\CLion 2025.2.2\bin;	CommonProgramFiles=C:\Program Files\Common Files;	CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files;	CommonProgramW6432=C:\Program Files\Common Files;	COMPUTERNAME=DESKTOP-ESH39GT;	ComSpec=C:\WINDOWS\system32\cmd.exe;	DriverData=C:\Windows\System32\Drivers\DriverData;	ETHEREUM_SOCKET=\\.\pipe\geth.ipc;	FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer;	FPS_BROWSER_USER_PROFILE_STRING=Default;	HOMEDRIVE=C:;	HOMEPATH=\Users\egor-;	LOCALAPPDATA=C:\Users\egor-\AppData\Local;	LOGONSERVER=\\DESKTOP-ESH39GT;	NUMBER_OF_PROCESSORS=16;	OneDrive=C:\Users\egor-\OneDrive;	OS=Windows_NT;	Path=C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Geth;C:\Program Files\Git\cmd;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\Kubernetes\Minikube;C:\Program Files\nodejs\;C:\Program Files\dotnet\;C:\Users\egor-\.local\bin;C:\Users\egor-\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\egor-\AppData\Local\Programs\Python\Python312\;C:\Users\egor-\AppData\Local\Programs\Python\Launcher\;C:\Users\egor-\AppData\Local\Microsoft\WindowsApps;C:\Users\egor-\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\PyCharm Community Edition 2024.3.1\bin;C:\Program Files\JetBrains\CLion 2025.2.2\bin;C:\Users\egor-\AppData\Roaming\npm;C:\Users\egor-\AppData\Local\Programs\Antigravity\bin;C:\Users\egor-\AppData\Local\Programs\Antigravity IDE\bin;C:\msys64\ucrt64\bin;C:\msys64\ucrt64\bin;C:\Program Files\CMake\bin;C:\Program Files\WSL\;C:\Users\egor-\.local\bin;C:\Users\egor-\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\egor-\AppData\Local\Programs\Python\Python312\;C:\Users\egor-\AppData\Local\Programs\Python\Launcher\;C:\Users\egor-\AppData\Local\Microsoft\WindowsApps;C:\Users\egor-\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\PyCharm Community Edition 2024.3.1\bin;;C:\Program Files\JetBrains\CLion 2025.2.2\bin;C:\Users\egor-\AppData\Roaming\npm;C:\Users\egor-\AppData\Local\Programs\Antigravity\bin;C:\Users\egor-\AppData\Local\Programs\Antigravity IDE\bin;	PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.CPL;	PROCESSOR_ARCHITECTURE=AMD64;	PROCESSOR_IDENTIFIER=AMD64 Family 23 Model 104 Stepping 1, AuthenticAMD;	PROCESSOR_LEVEL=23;	PROCESSOR_REVISION=6801;	ProgramData=C:\ProgramData;	ProgramFiles=C:\Program Files;	ProgramFiles(x86)=C:\Program Files (x86);	ProgramW6432=C:\Program Files;	PSModulePath=C:\Users\egor-\Documents\WindowsPowerShell\Modules;C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules;	PUBLIC=C:\Users\Public;	PyCharm Community Edition=C:\Program Files\JetBrains\PyCharm Community Edition 2024.3.1\bin;;	SESSIONNAME=Console;	SystemDrive=C:;	SystemRoot=C:\WINDOWS;	TEMP=C:\Users\egor-\AppData\Local\Temp;	TMP=C:\Users\egor-\AppData\Local\Temp;	USERDOMAIN=DESKTOP-ESH39GT;	USERDOMAIN_ROAMINGPROFILE=DESKTOP-ESH39GT;	USERNAME=egor-;	USERPROFILE=C:\Users\egor-;	VBOX_HWVIRTEX_IGNORE_SVM_IN_USE=1;	windir=C:\WINDOWS"
+"8:50:43.4211063 AM","child2.exe","11024","Thread Create","","SUCCESS","Thread ID: 2384"
+"8:50:43.4212038 AM","parent.exe","1076","RegOpenKey","HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders","SUCCESS","Desired Access: Query Value"
+"8:50:43.4212445 AM","parent.exe","1076","RegQueryValue","HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders\Cache","SUCCESS","Type: REG_SZ, Length: 114, Data: C:\Users\egor-\AppData\Local\Microsoft\Windows\INetCache"
+"8:50:43.4212786 AM","parent.exe","1076","RegCloseKey","HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders","SUCCESS",""
+"8:50:43.4213023 AM","parent.exe","1076","RegOpenKey","HKCU\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Layers","SUCCESS","Desired Access: Query Value"
+"8:50:43.4213279 AM","parent.exe","1076","RegQueryValue","HKCU\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Layers\C:\web\OSI\lab2\build\bin\Debug\child2.exe","NAME NOT FOUND","Length: 16"
+"8:50:43.4213504 AM","parent.exe","1076","RegCloseKey","HKCU\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Layers","SUCCESS",""
+"8:50:43.4213998 AM","parent.exe","1076","QuerySecurityFile","C:\web\OSI\lab2\build\bin\Debug\child2.exe","SUCCESS","Information: Owner, Group, DACL, SACL, Label, Attribute, Process Trust Label, 0x100"
+"8:50:43.4215908 AM","parent.exe","1076","CreateFile","C:\Windows\apppatch\sysmain.sdb","SUCCESS","Desired Access: Generic Read, Disposition: Open, Options: Synchronous IO Non-Alert, Non-Directory File, Attributes: N, ShareMode: Read, AllocationSize: n/a, OpenResult: Opened"
+"8:50:43.4216923 AM","parent.exe","1076","QueryBasicInformationFile","C:\Windows\apppatch\sysmain.sdb","SUCCESS","CreationTime: 10/18/2025 10:01:51 AM, LastAccessTime: 10/8/2026 8:50:29 AM, LastWriteTime: 10/18/2025 10:01:51 AM, ChangeTime: 10/18/2025 1:02:31 PM, FileAttributes: A"
+"8:50:43.4217135 AM","parent.exe","1076","CloseFile","C:\Windows\apppatch\sysmain.sdb","SUCCESS",""
+"8:50:43.4217733 AM","parent.exe","1076","QueryBasicInformationFile","C:\web\OSI\lab2\build\bin\Debug\child2.exe","SUCCESS","CreationTime: 10/8/2026 8:48:00 AM, LastAccessTime: 10/8/2026 8:50:16 AM, LastWriteTime: 10/8/2026 8:48:00 AM, ChangeTime: 10/8/2026 8:48:00 AM, FileAttributes: A"
+"8:50:43.4218697 AM","parent.exe","1076","RegOpenKey","HKLM\Software\Microsoft\Windows\CurrentVersion\SideBySide","SUCCESS","Desired Access: Read"
+"8:50:43.4219055 AM","parent.exe","1076","RegQueryValue","HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\SideBySide\PreferExternalManifest","NAME NOT FOUND","Length: 20"
+"8:50:43.4219308 AM","parent.exe","1076","RegCloseKey","HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\SideBySide","SUCCESS",""
+"8:50:43.4227223 AM","parent.exe","1076","CloseFile","C:\web\OSI\lab2\build\bin\Debug\child2.exe","SUCCESS",""
+"8:50:43.4227934 AM","child2.exe","11024","Load Image","C:\web\OSI\lab2\build\bin\Debug\child2.exe","SUCCESS","Image Base: 0x7ff673040000, Image Size: 0x12000"
+"8:50:43.4229060 AM","child2.exe","11024","Load Image","C:\Windows\System32\ntdll.dll","SUCCESS","Image Base: 0x7ff93d6d0000, Image Size: 0x1f8000"
+"8:50:43.4231058 AM","child2.exe","11024","RegOpenKey","HKLM\System\CurrentControlSet\Control\Session Manager","REPARSE","Desired Access: Query Value"
+"8:50:43.4231354 AM","child2.exe","11024","RegOpenKey","HKLM\System\CurrentControlSet\Control\Session Manager","SUCCESS","Desired Access: Query Value"
+"8:50:43.4231623 AM","child2.exe","11024","RegQueryValue","HKLM\System\CurrentControlSet\Control\Session Manager\RaiseExceptionOnPossibleDeadlock","NAME NOT FOUND","Length: 80"
+"8:50:43.4231877 AM","child2.exe","11024","RegCloseKey","HKLM\System\CurrentControlSet\Control\Session Manager","SUCCESS",""
+"8:50:43.4232120 AM","child2.exe","11024","RegOpenKey","HKLM\SYSTEM\CurrentControlSet\Control\Session Manager\Segment Heap","REPARSE","Desired Access: Query Value"
+"8:50:43.4232380 AM","child2.exe","11024","RegOpenKey","HKLM\System\CurrentControlSet\Control\Session Manager\Segment Heap","NAME NOT FOUND","Desired Access: Query Value"
+"8:50:43.4232884 AM","child2.exe","11024","RegOpenKey","HKLM\SYSTEM\CurrentControlSet\Control\Session Manager","REPARSE","Desired Access: Query Value, Enumerate Sub Keys"
+"8:50:43.4233091 AM","child2.exe","11024","RegOpenKey","HKLM\System\CurrentControlSet\Control\Session Manager","SUCCESS","Desired Access: Query Value, Enumerate Sub Keys"
+"8:50:43.4233330 AM","child2.exe","11024","RegQueryValue","HKLM\System\CurrentControlSet\Control\Session Manager\ResourcePolicies","NAME NOT FOUND","Length: 24"
+"8:50:43.4233544 AM","child2.exe","11024","RegCloseKey","HKLM\System\CurrentControlSet\Control\Session Manager","SUCCESS",""
+"8:50:43.4238203 AM","child2.exe","11024","CreateFile","C:\web\OSI\lab2\build\bin\Debug","SUCCESS","Desired Access: Execute/Traverse, Synchronize, Disposition: Open, Options: Directory, Synchronous IO Non-Alert, Attributes: n/a, ShareMode: Read, Write, AllocationSize: n/a, OpenResult: Opened"
+"8:50:43.4240230 AM","child2.exe","11024","Load Image","C:\Windows\System32\kernel32.dll","SUCCESS","Image Base: 0x7ff93ca20000, Image Size: 0xc2000"
+"8:50:43.4243053 AM","child2.exe","11024","Load Image","C:\Windows\System32\KernelBase.dll","SUCCESS","Image Base: 0x7ff93b1c0000, Image Size: 0x2f6000"
+"8:50:43.4257239 AM","child2.exe","11024","RegOpenKey","HKLM\System\CurrentControlSet\Control\StateSeparation\RedirectionMap\Keys","REPARSE","Desired Access: Read"
+"8:50:43.4257703 AM","child2.exe","11024","RegOpenKey","HKLM\System\CurrentControlSet\Control\StateSeparation\RedirectionMap\Keys","NAME NOT FOUND","Desired Access: Read"
+"8:50:43.4260660 AM","child2.exe","11024","RegOpenKey","HKLM\System\CurrentControlSet\Control\SafeBoot\Option","REPARSE","Desired Access: Query Value, Set Value"
+"8:50:43.4260859 AM","child2.exe","11024","RegOpenKey","HKLM\System\CurrentControlSet\Control\SafeBoot\Option","NAME NOT FOUND","Desired Access: Query Value, Set Value"
+"8:50:43.4261063 AM","child2.exe","11024","RegOpenKey","HKLM\System\CurrentControlSet\Control\Srp\GP\DLL","REPARSE","Desired Access: Read"
+"8:50:43.4261214 AM","child2.exe","11024","RegOpenKey","HKLM\System\CurrentControlSet\Control\Srp\GP\DLL","NAME NOT FOUND","Desired Access: Read"
+"8:50:43.4261425 AM","child2.exe","11024","RegOpenKey","HKLM\Software\Policies\Microsoft\Windows\Safer\CodeIdentifiers","NAME NOT FOUND","Desired Access: Query Value"
+"8:50:43.4261722 AM","child2.exe","11024","RegOpenKey","HKCU\Software\Policies\Microsoft\Windows\Safer\CodeIdentifiers","NAME NOT FOUND","Desired Access: Query Value"
+"8:50:43.4262036 AM","child2.exe","11024","RegOpenKey","HKLM\System\CurrentControlSet\Control\FileSystem\","REPARSE","Desired Access: Read"
+"8:50:43.4262198 AM","child2.exe","11024","RegOpenKey","HKLM\System\CurrentControlSet\Control\FileSystem","SUCCESS","Desired Access: Read"
+"8:50:43.4262407 AM","child2.exe","11024","RegQueryValue","HKLM\System\CurrentControlSet\Control\FileSystem\LongPathsEnabled","SUCCESS","Type: REG_DWORD, Length: 4, Data: 0"
+"8:50:43.4262618 AM","child2.exe","11024","RegCloseKey","HKLM\System\CurrentControlSet\Control\FileSystem","SUCCESS",""
+"8:50:43.4263937 AM","child2.exe","11024","Thread Create","","SUCCESS","Thread ID: 2768"
+"8:50:43.4264432 AM","child2.exe","11024","RegOpenKey","HKLM\System\CurrentControlSet\Control\Session Manager","REPARSE","Desired Access: Query Value"
+"8:50:43.4264687 AM","child2.exe","11024","RegOpenKey","HKLM\System\CurrentControlSet\Control\Session Manager","SUCCESS","Desired Access: Query Value"
+"8:50:43.4265025 AM","child2.exe","11024","RegQueryValue","HKLM\System\CurrentControlSet\Control\Session Manager\SafeDllSearchMode","NAME NOT FOUND","Length: 16"
+"8:50:43.4265308 AM","child2.exe","11024","Thread Create","","SUCCESS","Thread ID: 12264"
+"8:50:43.4268976 AM","child2.exe","11024","CreateFile","C:\web\OSI\lab2\build\bin\Debug\ucrtbased.dll","NAME NOT FOUND","Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a"
+"8:50:43.4271391 AM","child2.exe","11024","CreateFile","C:\web\OSI\lab2\build\bin\Debug\VCRUNTIME140D.dll","NAME NOT FOUND","Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a"
+"8:50:43.4272159 AM","child2.exe","11024","CreateFile","C:\Windows\System32\ucrtbased.dll","SUCCESS","Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+"8:50:43.4272488 AM","child2.exe","11024","QueryBasicInformationFile","C:\Windows\System32\ucrtbased.dll","SUCCESS","CreationTime: 7/9/2025 12:33:38 PM, LastAccessTime: 10/8/2026 8:50:43 AM, LastWriteTime: 7/9/2025 12:33:38 PM, ChangeTime: 9/22/2025 9:29:33 PM, FileAttributes: A"
+"8:50:43.4272663 AM","child2.exe","11024","CloseFile","C:\Windows\System32\ucrtbased.dll","SUCCESS",""
+"8:50:43.4274511 AM","child2.exe","11024","CreateFile","C:\Windows\System32\ucrtbased.dll","SUCCESS","Desired Access: Read Data/List Directory, Execute/Traverse, Synchronize, Disposition: Open, Options: Synchronous IO Non-Alert, Non-Directory File, Attributes: n/a, ShareMode: Read, Delete, AllocationSize: n/a, OpenResult: Opened"
+"8:50:43.4274717 AM","child2.exe","11024","CreateFile","C:\Windows\System32\vcruntime140d.dll","SUCCESS","Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+"8:50:43.4275110 AM","child2.exe","11024","CreateFileMapping","C:\Windows\System32\ucrtbased.dll","FILE LOCKED WITH ONLY READERS","SyncType: SyncTypeCreateSection, PageProtection: PAGE_EXECUTE"
+"8:50:43.4275132 AM","child2.exe","11024","QueryBasicInformationFile","C:\Windows\System32\vcruntime140d.dll","SUCCESS","CreationTime: 6/11/2025 5:21:58 AM, LastAccessTime: 10/8/2026 8:50:43 AM, LastWriteTime: 6/11/2025 5:21:58 AM, ChangeTime: 9/22/2025 9:25:37 PM, FileAttributes: A"
+"8:50:43.4275370 AM","child2.exe","11024","CloseFile","C:\Windows\System32\vcruntime140d.dll","SUCCESS",""
+"8:50:43.4275550 AM","child2.exe","11024","CreateFileMapping","C:\Windows\System32\ucrtbased.dll","SUCCESS","SyncType: SyncTypeOther"
+"8:50:43.4276724 AM","child2.exe","11024","Load Image","C:\Windows\System32\ucrtbased.dll","SUCCESS","Image Base: 0x7ff8db810000, Image Size: 0x204000"
+"8:50:43.4277253 AM","child2.exe","11024","CreateFile","C:\Windows\System32\vcruntime140d.dll","SUCCESS","Desired Access: Read Data/List Directory, Execute/Traverse, Synchronize, Disposition: Open, Options: Synchronous IO Non-Alert, Non-Directory File, Attributes: n/a, ShareMode: Read, Delete, AllocationSize: n/a, OpenResult: Opened"
+"8:50:43.4277861 AM","child2.exe","11024","CreateFileMapping","C:\Windows\System32\vcruntime140d.dll","FILE LOCKED WITH ONLY READERS","SyncType: SyncTypeCreateSection, PageProtection: PAGE_EXECUTE"
+"8:50:43.4278275 AM","child2.exe","11024","CloseFile","C:\Windows\System32\ucrtbased.dll","SUCCESS",""
+"8:50:43.4278296 AM","child2.exe","11024","CreateFileMapping","C:\Windows\System32\vcruntime140d.dll","SUCCESS","SyncType: SyncTypeOther"
+"8:50:43.4279251 AM","child2.exe","11024","Load Image","C:\Windows\System32\vcruntime140d.dll","SUCCESS","Image Base: 0x7ff90c820000, Image Size: 0x30000"
+"8:50:43.4280169 AM","child2.exe","11024","CloseFile","C:\Windows\System32\vcruntime140d.dll","SUCCESS",""
+"8:50:43.4284361 AM","child2.exe","11024","RegOpenKey","HKLM\System\CurrentControlSet\Control\Nls\Sorting\Versions","REPARSE","Desired Access: Read"
+"8:50:43.4284793 AM","child2.exe","11024","RegOpenKey","HKLM\System\CurrentControlSet\Control\Nls\Sorting\Versions","SUCCESS","Desired Access: Read"
+"8:50:43.4285198 AM","child2.exe","11024","RegQueryValue","HKLM\System\CurrentControlSet\Control\Nls\Sorting\Versions\(Default)","SUCCESS","Type: REG_SZ, Length: 18, Data: 00060305"
+"8:50:43.4285452 AM","child2.exe","11024","RegQueryValue","HKLM\System\CurrentControlSet\Control\Nls\Sorting\Versions\000603xx","SUCCESS","Type: REG_SZ, Length: 26, Data: kernel32.dll"
+"8:50:43.4286887 AM","child2.exe","11024","RegOpenKey","HKLM\SYSTEM\CurrentControlSet\Control\Session Manager","REPARSE","Desired Access: Query Value, Enumerate Sub Keys"
+"8:50:43.4287383 AM","child2.exe","11024","RegOpenKey","HKLM\System\CurrentControlSet\Control\Session Manager","SUCCESS","Desired Access: Query Value, Enumerate Sub Keys"
+"8:50:43.4287761 AM","child2.exe","11024","RegQueryValue","HKLM\System\CurrentControlSet\Control\Session Manager\ResourcePolicies","NAME NOT FOUND","Length: 24"
+"8:50:43.4288088 AM","child2.exe","11024","RegCloseKey","HKLM\System\CurrentControlSet\Control\Session Manager","SUCCESS",""
+"8:50:43.4291527 AM","child2.exe","11024","QueryNameInformationFile","C:\web\OSI\lab2\build\bin\Debug\child2.exe","SUCCESS","Name: \web\OSI\lab2\build\bin\Debug\child2.exe"
+"8:50:56.4314892 AM","child2.exe","11024","Thread Create","","SUCCESS","Thread ID: 11556"
+"8:50:56.4316637 AM","child1.exe","7788","Thread Create","","SUCCESS","Thread ID: 2964"
+"8:50:56.4317577 AM","child2.exe","11024","Thread Exit","","SUCCESS","Thread ID: 2768, User Time: 0.0000000, Kernel Time: 0.0000000"
+"8:50:56.4317643 AM","child2.exe","11024","Thread Exit","","SUCCESS","Thread ID: 2384, User Time: 0.0000000, Kernel Time: 0.0000000"
+"8:50:56.4317724 AM","child2.exe","11024","Thread Exit","","SUCCESS","Thread ID: 12264, User Time: 0.0000000, Kernel Time: 0.0000000"
+"8:50:56.4318282 AM","parent.exe","1076","Thread Create","","SUCCESS","Thread ID: 14048"
+"8:50:56.4319681 AM","child2.exe","11024","Thread Exit","","SUCCESS","Thread ID: 11556, User Time: 0.0000000, Kernel Time: 0.0000000"
+"8:50:56.4320428 AM","child1.exe","7788","CreateFile","C:\Windows\System32\kernel.appcore.dll","SUCCESS","Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+"8:50:56.4321155 AM","child1.exe","7788","QueryBasicInformationFile","C:\Windows\System32\kernel.appcore.dll","SUCCESS","CreationTime: 12/4/2023 5:45:42 AM, LastAccessTime: 10/8/2026 8:50:34 AM, LastWriteTime: 12/4/2023 5:45:42 AM, ChangeTime: 10/18/2025 1:03:17 PM, FileAttributes: A"
+"8:50:56.4321573 AM","child1.exe","7788","CloseFile","C:\Windows\System32\kernel.appcore.dll","SUCCESS",""
+"8:50:56.4323446 AM","parent.exe","1076","Thread Exit","","SUCCESS","Thread ID: 11020, User Time: 0.0000000, Kernel Time: 0.0000000"
+"8:50:56.4324292 AM","parent.exe","1076","Thread Exit","","SUCCESS","Thread ID: 12408, User Time: 0.0000000, Kernel Time: 0.0000000"
+"8:50:56.4324583 AM","parent.exe","1076","Thread Exit","","SUCCESS","Thread ID: 2616, User Time: 0.0000000, Kernel Time: 0.0000000"
+"8:50:56.4324675 AM","child1.exe","7788","CreateFile","C:\Windows\System32\kernel.appcore.dll","SUCCESS","Desired Access: Read Data/List Directory, Execute/Traverse, Synchronize, Disposition: Open, Options: Synchronous IO Non-Alert, Non-Directory File, Attributes: n/a, ShareMode: Read, Delete, AllocationSize: n/a, OpenResult: Opened"
+"8:50:56.4324916 AM","child2.exe","11024","Process Exit","","SUCCESS","Exit Status: -1073741510, User Time: 0.0000000 seconds, Kernel Time: 0.0000000 seconds, Private Bytes: 589,824, Peak Private Bytes: 598,016, Working Set: 3,387,392, Peak Working Set: 3,391,488"
+"8:50:56.4324985 AM","parent.exe","1076","Thread Exit","","SUCCESS","Thread ID: 14048, User Time: 0.0000000, Kernel Time: 0.0000000"
+"8:50:56.4325015 AM","parent.exe","1076","Thread Exit","","SUCCESS","Thread ID: 2380, User Time: 0.0000000, Kernel Time: 0.0000000"
+"8:50:56.4325676 AM","child2.exe","11024","RegOpenKey","HKLM\System\CurrentControlSet\Services\bam\State\UserSettings\S-1-5-21-3161820280-1637484534-3215063883-1001","SUCCESS","Desired Access: All Access"
+"8:50:56.4325836 AM","child1.exe","7788","CreateFileMapping","C:\Windows\System32\kernel.appcore.dll","FILE LOCKED WITH ONLY READERS","SyncType: SyncTypeCreateSection, PageProtection: PAGE_EXECUTE"
+"8:50:56.4326164 AM","child2.exe","11024","RegQueryValue","HKLM\System\CurrentControlSet\Services\bam\State\UserSettings\S-1-5-21-3161820280-1637484534-3215063883-1001\\Device\HarddiskVolume3\web\OSI\lab2\build\bin\Debug\child2.exe","NAME NOT FOUND","Length: 40"
+"8:50:56.4326635 AM","child1.exe","7788","CreateFileMapping","C:\Windows\System32\kernel.appcore.dll","SUCCESS","SyncType: SyncTypeOther"
+"8:50:56.4326666 AM","child2.exe","11024","RegCloseKey","HKLM\System\CurrentControlSet\Services\bam\State\UserSettings\S-1-5-21-3161820280-1637484534-3215063883-1001","SUCCESS",""
+"8:50:56.4327538 AM","child2.exe","11024","CloseFile","C:\web\OSI\lab2\build\bin\Debug","SUCCESS",""
+"8:50:56.4329177 AM","child2.exe","11024","RegCloseKey","HKLM\System\CurrentControlSet\Control\Session Manager","SUCCESS",""
+"8:50:56.4329290 AM","child1.exe","7788","Load Image","C:\Windows\System32\kernel.appcore.dll","SUCCESS","Image Base: 0x7ff939570000, Image Size: 0x12000"
+"8:50:56.4329393 AM","child2.exe","11024","RegCloseKey","HKLM\System\CurrentControlSet\Control\Nls\Sorting\Versions","SUCCESS",""
+"8:50:56.4332564 AM","child1.exe","7788","Load Image","C:\Windows\System32\msvcrt.dll","SUCCESS","Image Base: 0x7ff93d370000, Image Size: 0x9e000"
+"8:50:56.4333246 AM","parent.exe","1076","Process Exit","","SUCCESS","Exit Status: -1073741510, User Time: 0.0000000 seconds, Kernel Time: 0.0000000 seconds, Private Bytes: 765,952, Peak Private Bytes: 774,144, Working Set: 4,022,272, Peak Working Set: 4,026,368"
+"8:50:56.4333645 AM","parent.exe","1076","RegOpenKey","HKLM\System\CurrentControlSet\Services\bam\State\UserSettings\S-1-5-21-3161820280-1637484534-3215063883-1001","SUCCESS","Desired Access: All Access"
+"8:50:56.4334071 AM","parent.exe","1076","RegQueryValue","HKLM\System\CurrentControlSet\Services\bam\State\UserSettings\S-1-5-21-3161820280-1637484534-3215063883-1001\\Device\HarddiskVolume3\web\OSI\lab2\build\bin\Debug\parent.exe","NAME NOT FOUND","Length: 40"
+"8:50:56.4336763 AM","child1.exe","7788","Load Image","C:\Windows\System32\rpcrt4.dll","SUCCESS","Image Base: 0x7ff93d020000, Image Size: 0x120000"
+"8:50:56.4337873 AM","parent.exe","1076","RegCloseKey","HKLM\System\CurrentControlSet\Services\bam\State\UserSettings\S-1-5-21-3161820280-1637484534-3215063883-1001","SUCCESS",""
+"8:50:56.4338945 AM","parent.exe","1076","CloseFile","C:\web\OSI\lab2\build\bin\Debug","SUCCESS",""
+"8:50:56.4341105 AM","child1.exe","7788","CloseFile","C:\Windows\System32\kernel.appcore.dll","SUCCESS",""
+"8:50:56.4342097 AM","parent.exe","1076","RegCloseKey","HKLM\System\CurrentControlSet\Control\Session Manager","SUCCESS",""
+"8:50:56.4342297 AM","parent.exe","1076","RegCloseKey","HKLM\System\CurrentControlSet\Control\Nls\Sorting\Versions","SUCCESS",""
+"8:50:56.4342983 AM","parent.exe","1076","RegCloseKey","HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options","SUCCESS",""
+"8:50:56.4343167 AM","parent.exe","1076","RegCloseKey","HKCU\SOFTWARE\Microsoft\Windows NT\CurrentVersion","SUCCESS",""
+"8:50:56.4349341 AM","child1.exe","7788","RegOpenKey","HKLM\SYSTEM\CurrentControlSet\Control\Session Manager","REPARSE","Desired Access: Query Value, Enumerate Sub Keys"
+"8:50:56.4349848 AM","child1.exe","7788","RegOpenKey","HKLM\System\CurrentControlSet\Control\Session Manager","SUCCESS","Desired Access: Query Value, Enumerate Sub Keys"
+"8:50:56.4350273 AM","child1.exe","7788","RegQueryValue","HKLM\System\CurrentControlSet\Control\Session Manager\ResourcePolicies","NAME NOT FOUND","Length: 24"
+"8:50:56.4350650 AM","child1.exe","7788","RegCloseKey","HKLM\System\CurrentControlSet\Control\Session Manager","SUCCESS",""
+"8:50:56.4352941 AM","child1.exe","7788","ReadFile","C:\Windows\System32\ucrtbased.dll","SUCCESS","Offset: 1,687,552, Length: 16,384, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Normal"
+"8:50:56.4353895 AM","child1.exe","7788","Thread Exit","","SUCCESS","Thread ID: 14820, User Time: 0.0000000, Kernel Time: 0.0000000"
+"8:50:56.4354547 AM","child1.exe","7788","Thread Exit","","SUCCESS","Thread ID: 11120, User Time: 0.0000000, Kernel Time: 0.0000000"
+"8:50:56.4355882 AM","child1.exe","7788","Thread Exit","","SUCCESS","Thread ID: 2964, User Time: 0.0000000, Kernel Time: 0.0000000"
+"8:50:56.4729622 AM","child1.exe","7788","Thread Exit","","SUCCESS","Thread ID: 8816, User Time: 0.0000000, Kernel Time: 0.0000000"
+"8:50:56.4735554 AM","child1.exe","7788","Process Exit","","SUCCESS","Exit Status: -1073741510, User Time: 0.0000000 seconds, Kernel Time: 0.0000000 seconds, Private Bytes: 737,280, Peak Private Bytes: 745,472, Working Set: 3,833,856, Peak Working Set: 3,837,952"
+"8:50:56.4736095 AM","child1.exe","7788","RegOpenKey","HKLM\System\CurrentControlSet\Services\bam\State\UserSettings\S-1-5-21-3161820280-1637484534-3215063883-1001","SUCCESS","Desired Access: All Access"
+"8:50:56.4736496 AM","child1.exe","7788","RegQueryValue","HKLM\System\CurrentControlSet\Services\bam\State\UserSettings\S-1-5-21-3161820280-1637484534-3215063883-1001\\Device\HarddiskVolume3\web\OSI\lab2\build\bin\Debug\child1.exe","NAME NOT FOUND","Length: 40"
+"8:50:56.4736916 AM","child1.exe","7788","RegCloseKey","HKLM\System\CurrentControlSet\Services\bam\State\UserSettings\S-1-5-21-3161820280-1637484534-3215063883-1001","SUCCESS",""
+"8:50:56.4737678 AM","child1.exe","7788","CloseFile","C:\web\OSI\lab2\build\bin\Debug","SUCCESS",""
+"8:50:56.4739171 AM","child1.exe","7788","RegCloseKey","HKLM\System\CurrentControlSet\Control\Session Manager","SUCCESS",""
+"8:50:56.4739354 AM","child1.exe","7788","RegCloseKey","HKLM\System\CurrentControlSet\Control\Nls\Sorting\Versions","SUCCESS",""
